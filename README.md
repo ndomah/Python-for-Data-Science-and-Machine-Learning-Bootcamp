@@ -2,7 +2,7 @@
 [Course Link](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/?couponCode=ST21MT61124)
 1. [Python Crash Course](https://github.com/ndomah/Python-for-Data-Science-and-Machine-Learning-Bootcamp/tree/main/01-Python-Crash-Course)
 2. [Python for Data Analysis - NumPy](https://github.com/ndomah/Python-for-Data-Science-and-Machine-Learning-Bootcamp/tree/main/02-Python-for-Data-Analysis-NumPy)
-3. Python for Data Analysis - Pandas
+3. [Python for Data Analysis - Pandas](https://github.com/ndomah/Python-for-Data-Science-and-Machine-Learning-Bootcamp/tree/main/03-Python-for-Data-Analysis-Pandas)
 4. Pandas Exercises
 5. Data Visualization with Matplotlib
 6. Data Visualization with Seaborn
